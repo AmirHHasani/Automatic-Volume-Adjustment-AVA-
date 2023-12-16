@@ -8,7 +8,7 @@ We decided to post this project in both our github pages so don't be surprised i
 
 # About creators
 
-This project is the result of the equal collaboration between Mohamad Hossein Sharifani([mhsharifani](https://github.com/mhsharifani "mhsharifani's Github Homepage")) and Amir Hossein Hasani([AmirHHasani](https://github.com/AmirHHasani "AmirHHasani's Github Homepage")).
+This project is the result of the equal collaboration between Amirhossein Hassani([AmirHHasani](https://github.com/AmirHHasani "AmirHHasani's Github Homepage")) and Mohamad Hossein Sharifani([mhsharifani](https://github.com/mhsharifani "mhsharifani's Github Homepage")).
 
 
 
